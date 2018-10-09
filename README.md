@@ -1,4 +1,4 @@
-milestoneproject_crw
+milestonecrw
 
 This is the website I have created for Combat Ready Wrestling, A section of Combat Ready gym Edinburgh. To provide the user with information of what martial arts are on offer and a means of contact.
 I have done this by creating a 6 page website, with a home page, a page for each martial art on offer, a contact form and page providing useful links.
@@ -35,10 +35,10 @@ Technologies Used
 
 
 Testing
-I have tested all features of this website using developer tools in google chrome, testing for responsiveness in differnt browser sizes.
+I have tested all features of this website using developer tools in google chrome, testing for responsiveness in differnt browser sizes and also tested on github pages.
 
 Deployment
-Deploy this website by opening in a browser.   
+Deploy this website by opening in a browser from the repository and is also available to view at https://p4dz.github.io/milestonecrw/
 
 
 
